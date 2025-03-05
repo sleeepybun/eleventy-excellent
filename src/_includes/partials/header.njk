@@ -3,10 +3,13 @@
 
   <div class="repel ontop gutter-s">
     <a href="/" class="logo | cluster" {{ indicateActiveHome }}>
-      {% svg "misc/star" %}
-
       <span class="font-display">{{ meta.siteName }}</span>
+
+      <div class="subtitle">
+        <span>a designer</span>
+      </div>
     </a>
+
     {% include "partials/main-nav.njk" %}
   </div>
 </header>
