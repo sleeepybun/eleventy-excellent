@@ -58,18 +58,46 @@ And helped Pumping Station: One do things like:
 
 For Chicago’s maker context, a quick tour through Chicago’s various makerspaces:
 
-- Pumping Station: One itself is six years old with over 400 paying members currently (some of my photos of PS:One here)
-- Catalyze Chicago, just over the river in the West Loop, focusing on physical products
-- SSH Chicago on the South Side (Bridgeport)
-- LevelUp, a teen-focused makerspace on the South Side, not far from Midway Airport
-- Bit Space, for ages 10–13 in Lincoln Square
-- Chicago Industrial Arts and Design Center in Rogers Park
-- Workshop 88 and SpaceLab in the burbs
-- Museum of Science and Industry’s Fab Lab (some of my pictures here and more pictures here)
-- Chicago Children’s Museum Tinkering Lab, a kids’ and family-focused space
-- Chicago Public Library Maker Lab, with Mini Maker Labs being gradually spread throughout the Chicago Public Library system
-- Blue1647, serving the South and West sides, which covers coworking as well as a student learning lab (article here)
+- [Pumping Station: One](http://pumpingstationone.org/) itself is six years old with over 400 paying members currently ([some of my photos of PS:One here](https://plus.google.com/+apetersen/posts/W3yyZGze5Z9))
+- [Catalyze Chicago](http://www.catalyzechicago.org/), just over the river in the West Loop, focusing on physical products
+- [SSH Chicago](http://sshchicago.org/) on the South Side (Bridgeport)
+- [LevelUp](http://www.engadget.com/2013/08/06/level-up/), a teen-focused makerspace on the South Side, not far from Midway Airport
+- [Bit Space](http://www.bitspacechicago.com/), for ages 10–13 in Lincoln Square
+- [Chicago Industrial Arts and Design Center](http://www.ciadc.org/) in Rogers Park
+- [Workshop 88](http://workshop88.com/) and [SpaceLab](http://spacelab1.com/) in the burbs
+- [Museum of Science and Industry’s Fab Lab](http://www.msichicago.org/whats-here/fab-lab/) (some of my [pictures here](https://www.flickr.com/photos/opacity/sets/72157626811338202) and [more pictures here](https://www.flickr.com/photos/opacity/sets/72157629928464824))
+- [Chicago Children’s Museum Tinkering Lab](http://www.chicagochildrensmuseum.org/index.php/experience/tinkering-lab), a kids’ and family-focused space
+- [Chicago Public Library Maker Lab](http://www.chipublib.org/maker-lab/), with Mini Maker Labs being gradually spread throughout the Chicago Public Library system
+- [Blue1647](http://www.blue1647.com/), serving the South and West sides, which covers coworking as well as a student learning lab ([article here](http://chicagoinno.streetwise.co/2014/06/01/blue-1647-ceo-brings-tech-to-chicagos-south-west-sides/))
 
-There’s also an overview of the three oldest Chicago makerspaces here.
+There’s also an [overview of the three oldest Chicago makerspaces here](http://makerfairechicagonorthside.com/2015/04/26/meet-chicagos-hackerspace-all-stars-psone-sshc-w88/).
 
-Just going by this list, Chicago’s definitely got a strong movement going, and that’s not counting the pop-up experiences like Center for Lost Arts (my photos from their original space’s closing party here), ORD Camp (which I’ve previously written about), various startup and hack nights, as well as Mini Maker Faires.
+Just going by this list, Chicago’s definitely got a [strong movement going](http://www.timeout.com/chicago/kids/activities/chicagos-maker-movement), and that’s not counting the pop-up experiences like [Center for Lost Arts](http://lostarts.co/) ([my photos from their original space’s closing party here](https://www.flickr.com/photos/opacity/albums/72157654314252704)), [ORD Camp](http://ordcamp.com/) ([which I’ve previously written about](http://joeborn.com/post/76500337839/the-secret-of-ord-camp)), various startup and hack nights, as well as [Mini Maker Faires](http://makerfaire.com/map/).
+
+![Is such a thing even possible? Yes it is.](/assets/images/blog/even-possible-yes.gif)
+
+It’s also a national movement, with President Obama declaring a [National Week of Making](https://www.whitehouse.gov/blog/2015/04/09/announcing-week-making-june-12-18-0), participating in the first-ever [White House Maker Faire](https://www.whitehouse.gov/the-press-office/2015/06/12/fact-sheet-new-commitments-support-president’s-nation-makers-initiative), and announcing the [Nation of Makers initiative](https://www.whitehouse.gov/the-press-office/2015/06/12/fact-sheet-new-commitments-support-president’s-nation-makers-initiative). My favorite moment from that event was Obama hanging out with a life-size robotic giraffe ([video also available](http://abcnews.go.com/US/video/maker-faire-showcases-tomorrows-industry-leaders-14546990)).
+
+![It's classified.](/assets/images/blog/classified-1.gif)
+
+![Maybe.](/assets/images/blog/maybe.gif)
+
+More broadly, though, makers’ primary resources tend to be other makers, thus the [launch of MakerSpace](http://makezine.com/2015/04/29/welcome-to-makerspace/) by Dale Dougherty and the launch of [MakerBase](https://makerba.se/) by Gina Trapani and Anil Dash (you can [find me there too](https://makerba.se/m/6i4sw8/apetersen)). There are physical makers and digital makers, and many cross from one to another. The movement has even diversified into groups like [civic hack groups](http://chihacknight.org/), [Maker Biz](http://makerbiz.weebly.com/), the [Kickstarter crowd](https://www.kickstarter.com/discover/places/chicago-il), and those hacking for education. I’m fond of the fact that I was there at the start of the [Power Racing Series](http://www.powerracingseries.org/) (in fact, my photography’s still on the site), which may look frivolous and fun, but actually teaches kids and adults across the country about everything from brakes to batteries to electronics.
+
+![Power Racing Series.](/assets/images/blog/power-racing-1.gif)
+
+If you’ve made it this far on this wild ride, I probably don’t have to tell you that the Maker Movement has become a [$29 billion industry](http://www.bizjournals.com/newyork/news/2015/09/23/maker-faire-makercon-sherry-huss.html), and that approximately [135 million adults are makers (that’s 57% of adults over 18)](http://www.usatoday.com/story/money/business/2013/10/14/martha-stewart-column-meet-the-makers/2980701/?). But if you still need convincing, those are the facts. Companies like [Kickstarter](https://www.kickstarter.com/) and [Indiegogo](https://www.indiegogo.com/) and [Etsy](https://www.etsy.com/) are helping drive this industry forward, and industry giants are jumping in with projects like [GE Garages](http://www.ge.com/garages) and [UPS’s entry into the 3D printing market](https://www.theupsstore.com/print/3d-printing/locations), not to mention [TechShop](http://www.techshop.ws/) and [Shapeways](http://www.shapeways.com/).
+
+Even though these [giants are now in the market](http://www.wired.com/insights/2015/02/how-to-think-like-a-maker/), we’re here too. We’ve always been here, whether we talked about it or not.
+
+As upstart, as DIY, as muddle-it-through-until-you-find-an-answer as the Maker Movement may be, it’s also the perfect place for curious, scrappy, whatever-it-takes-to-get-the-job-done inter- and intra-disciplinarians like us that enjoy being both high-level and in-the-weeds. We who love hyphens [in whatever we do](http://www.fastcompany.com/27255/are-you-hyphen-ated-enough).
+
+And that’s why we’re here. Thanks for making it so incredibly far through the history of the Maker Movement with us today. Let’s look toward the future of the Maker Movement together.
+
+![Hey! Did you try for your dreams today?](/assets/images/blog/try-for-your-dreams.gif)
+
+Many thanks to [Running a Hackerspace](http://runningahackerspace.tumblr.com/) and [Pumping Station: One](http://pumpingstationone.org/) for the gifs, plus [Buzzfeed](http://www.buzzfeed.com/melissaharrison/whats-the-best-thing-to-eat-in-chicago-for-under-10#.yu7L3WKNo) for the Chicago gif.
+
+![Nothing to see here. Please disperse.](/assets/images/blog/please-disperse-1.gif)
+
+Originally posted at [http://community.rightpoint.com/blogs/viewpoint/archive/2015/11/12/the-maker-movement-making-the-world-our-canvas.aspx](http://community.rightpoint.com/blogs/viewpoint/archive/2015/11/12/the-maker-movement-making-the-world-our-canvas.aspx) on 11–12–2015 at 9:23 AM
