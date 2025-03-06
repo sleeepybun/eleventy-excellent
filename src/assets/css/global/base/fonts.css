@@ -18,3 +18,13 @@
     url('/assets/fonts/work-sans/WorkSans-Italic.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: 
+    local(''),
+    url('/assets/fonts/work-sans/WorkSans-Bold.ttf') format('truetype');
+}
+
