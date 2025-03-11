@@ -1,0 +1,28 @@
+---
+layout: base
+title: Photos
+permalink: /photos/index.html
+description: "Some photos."
+---
+
+<article class="wrapper">
+  <header class="full | section">
+    <div class="wrapper flow region">
+      <h1 class="" style="color: var(--color-dark);">{{ title }}</h1>
+      <p>{{ description }}</p>
+    </div>
+  </header>
+  
+  <div class="region flow prose">
+    {% for photo in photos %}
+      <figure>
+        <img src="{{ photo.src }}" alt="{{ photo.alt }}">
+        {% if photo.caption %}
+          <figcaption>
+            {{ photo.caption }}
+          </figcaption>
+        {% endif %}
+      </figure>
+    {% endfor %}
+  </div>
+</article>
