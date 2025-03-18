@@ -13,16 +13,9 @@ description: "Some photos."
     </div>
   </header>
   
-  <div class="region flow prose">
+  <custom-masonry layout="thirds">
     {% for photo in photos %}
-      <figure>
-        <img src="{{ photo.src }}" alt="{{ photo.alt }}">
-        {% if photo.caption %}
-          <figcaption>
-            {{ photo.caption }}
-          </figcaption>
-        {% endif %}
-      </figure>
+      {% include "partials/card-photo.njk" %}
     {% endfor %}
-  </div>
+  </custom-masonry>
 </article>
