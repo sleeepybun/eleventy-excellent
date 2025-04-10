@@ -2,7 +2,7 @@
 layout: base
 title: Photos
 permalink: /photos/index.html
-description: "Some photos."
+description: "For fun"
 ---
 
 <article class="wrapper">
@@ -19,3 +19,7 @@ description: "Some photos."
     {% endfor %}
   </custom-masonry>
 </article>
+
+{%- css "local" -%}
+  {%- include 'css/photos.css' -%}
+{%- endcss -%}

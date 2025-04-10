@@ -1,0 +1,14 @@
+.photo-container {
+  background-color: var(--color-bg-accent); 
+  padding: 1.5rem;
+}
+
+img {
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+figcaption {
+  text-align: left;
+  border-bottom: none;
+}
