@@ -1,0 +1,17 @@
+.work-card {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+.work-card img {
+  width: 100%;
+  aspect-ratio: 1.5;
+  object-fit: cover;
+}
+
+.work-card h2 {
+  font-weight: var(--font-bold);
+  font-size: var(--size-step-3);
+}

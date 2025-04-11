@@ -12,4 +12,20 @@ description: "Various projects I've worked on."
       <p>{{ description }}</p>
     </div>
   </header>
+
+  <div>
+    {% for work in works %}
+      {% include "partials/card-work.njk" %}
+    {% endfor %}
+  </div>
+  
+  <section>
+    <p>
+      These are just exerpts: to view my full portfolio, <a href="mailto:annepetersen@gmail.com">contact me</a>.
+    </p>
+  </section>
 </article>
+
+{%- css "local" -%}
+  {%- include 'css/work.css' -%}
+{%- endcss -%}

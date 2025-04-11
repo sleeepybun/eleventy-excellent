@@ -1,0 +1,26 @@
+[
+  {
+    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "alt": "Alt text",
+    "title": "University of Nebraska Omaha Information Architecture",
+    "description": "This would be a brief description about the project."
+  },
+  {
+    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "alt": "Alt text",
+    "title": "University of Nebraska Omaha Persona",
+    "description": "This would be a brief description about the project."
+  },
+  {
+    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "alt": "Alt text",
+    "title": "Society of Actuaries Persona",
+    "description": "This would be a brief description about the project."
+  },
+  {
+    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "alt": "Alt text",
+    "title": "Society of Actuaries Wireframe Detail",
+    "description":"This would be a brief description about the project."
+  }
+]
