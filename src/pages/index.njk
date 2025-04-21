@@ -51,15 +51,19 @@ blog:
       <h2>Photos</h2>
 
       <div class="feature |  region region-space-l">
-        <custom-masonry layout="50-50">
-          <!-- loop posts -->
-          {% set itemList = collections.allPosts %}
-					{% asyncEach item in itemList.slice(0, 4) %}
-						{% set definedDate = item.date %}
-						{% include "partials/card-blog.njk" %}
-					{% endeach %}
+        <custom-masonry layout="thirds">
+
+          {%- for photo in photos -%}
+            {% if loop.index0 < 6 %}
+              {% include "partials/card-photo.njk" %}
+            {% endif %}
+          {%- endfor -%}
         </custom-masonry>
       </div>
     </div>
   </section>
 </div>
+
+{%- css "local" -%}
+  {%- include 'css/photos.css' -%}
+{%- endcss -%}
