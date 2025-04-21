@@ -7,3 +7,11 @@ picture,
 .index-content-right {
   grid-column: 3 / 5;
 }
+
+@media screen and (max-width: 900px) {
+  picture,
+  .index-content-left,
+  .index-content-right {
+    grid-column: 1 / 5;
+  }
+}
