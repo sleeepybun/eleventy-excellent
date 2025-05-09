@@ -1,5 +1,5 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'Anne Petersen is'; // TODO: Ask Anne for site name
+export const siteName = 'Anne is'; // TODO: Ask Anne for site name
 export const siteDescription = 'Anne Petersen is a generalist designer and product owner.'; // TODO: Ask Anne for new desc.
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';

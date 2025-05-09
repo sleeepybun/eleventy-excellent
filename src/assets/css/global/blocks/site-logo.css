@@ -1,6 +1,14 @@
 .logo {
   --gutter: var(--space-xs);
   padding: var(--space-s) 0;
-  font-size: var(--size-step-0);
+  font-size: var(--size-step-1);
+  font-weight: var(--font-bold);
   text-decoration: none;
+}
+
+.logo .subtitle {
+  padding: var(--nav-item-padding);
+  text-decoration-line: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: .2em;
 }
