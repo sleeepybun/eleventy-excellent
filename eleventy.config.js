@@ -24,6 +24,9 @@ import filters from './src/_config/filters.js';
 import plugins from './src/_config/plugins.js';
 import shortcodes from './src/_config/shortcodes.js';
 
+// Import the role text data
+import roleTextData from './src/_data/roleText.js';
+
 export default async function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js,svg,png,jpeg}');
   eleventyConfig.addWatchTarget('./src/_includes/**/*.{webc}');
@@ -88,6 +91,15 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('svg', shortcodes.svgShortcode);
   eleventyConfig.addShortcode('image', shortcodes.imageShortcode);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
+
+  // Add shortcode for dynamic role text
+  eleventyConfig.addShortcode('roleText', function() {
+    // Get the current page URL
+    const currentPath = this.page.url;
+
+    // Return the appropriate role text
+    return roleTextData.getCurrentrole(currentPath);
+  });
 
   // --------------------- Events ---------------------
   if (process.env.ELEVENTY_RUN_MODE === 'serve') {
