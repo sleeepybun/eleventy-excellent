@@ -1,27 +1,42 @@
 [
   {
-    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "src": "/assets/images/photos/aerials-2023-001.jpg",
     "alt": "Alt text",
-    "caption": "This is a caption."
+    "caption": "Aerial view of Pemberton, Perry Township, Ohio."
   },
   {
-    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "src": "/assets/images/photos/aerials-2023-002.jpg",
     "alt": "Alt text",
-    "caption": "This is a caption."
+    "caption": "Aerial view of Swedentown, Chicago, Illinois."
   },
   {
-    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "src": "/assets/images/photos/aerials-2023-003.jpg",
     "alt": "Alt text",
-    "caption": "This is a caption."
+    "caption": "Glynwood, Moulton Township, Ohio."
   },
   {
-    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "src": "/assets/images/photos/aerials-2023-004.jpg",
     "alt": "Alt text",
-    "caption": "This is a caption."
+    "caption": "Bensenville, Addison Township, Illinois."
   },
   {
-    "src": "/assets/images/photos/unsplash-demo-photo.jpg",
+    "src": "/assets/images/photos/aerials-2023-005.jpg",
     "alt": "Alt text",
-    "caption": "This is a caption."
+    "caption": "Aerial view of Columbia Estates Mobile Home Park, Ohio, United States."
+  },
+  {
+    "src": "/assets/images/photos/aerials-2023-006.jpg",
+    "alt": "Alt text",
+    "caption": "Aerial view of OHare, Leyden Township, Illinois."
+  },
+  {
+    "src": "/assets/images/photos/aerials-2023-007.jpg",
+    "alt": "Alt text",
+    "caption": "Gates, New York, United States."
+  },
+  {
+    "src": "/assets/images/photos/aerials-2023-008.jpg",
+    "alt": "Alt text",
+    "caption": "Nashville, Hanover, New York."
   }
 ]
