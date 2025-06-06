@@ -5,14 +5,7 @@ description: 'About Anne Petersen'
 layout: page
 ---
 
-Anne Petersen is a(n):
-- Government technologist*.
-- [Photographer](https://500px.com/p/opacity).
-- [ORD Camper](https://ordcamp.com/).
-- Chicagoan.
-- [Speaker](http://slideshare.net/apetersen). 
-- Maker. 
-- Geek. 
-- [Nerd](https://chicagonerds.carrd.co/). 
+## Anne Petersen
+### Experience Design Lead, U.S. Web Design System
 
-*more specifically, a generalist designer and product owner/manager, with experience in con­tent, usabil­ity, user expe­ri­ence (UX), change enablement, and much, much more. Chicago-local; works remotely (non-negotiable).
+Anne Petersen’s work spans 20+ years, across user experience design, research, strategy, change management, digital governance, and content strategy. They are currently the Experience Design Lead of the U.S. Web Design System, the core design system of the federal government, they previously led design at digital agencies — including at 18F, a within-government consultancy — as well as in higher education at institutions like Penn State and University of Illinois at Chicago. Anne’s mission is to improve lives in large and small ways via beautiful, understandable, and sustainable digital design.
